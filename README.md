@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Miscellaneous Scripts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is for storing scripts that could be used in the future with some refactoring
 
 ## Available Scripts
 
